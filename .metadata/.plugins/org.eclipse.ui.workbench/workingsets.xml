@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1659941284547_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1659941284565_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1662217710165_3" label="MVC7-CustomerRegistration" name="MVC7-CustomerRegistration">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MVC7-CustomerRegistration" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1662228976720_4" label="MVCListEmployees-AC" name="MVCListEmployees-AC">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MVCListEmployees-AC" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1662231370299_5" label="MVCBoot39-MiniProject-CURDOperations" name="MVCBoot39-MiniProject-CURDOperations">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MVCBoot39-MiniProject-CURDOperations" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1659941288874_2" label="Window Working Set" name="Aggregate for window 1659941288874"/>
+</workingSetManager>

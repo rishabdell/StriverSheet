@@ -1,0 +1,10 @@
+package day4_Hashing;
+
+public class LongestConsecutiveSubsequence {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

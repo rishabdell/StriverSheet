@@ -1,0 +1,10 @@
+package linkedList_Striver;
+
+public class RemoveN_thNodeBack {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
