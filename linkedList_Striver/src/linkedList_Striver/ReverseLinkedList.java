@@ -1,6 +1,19 @@
 package linkedList_Striver;
 
+class Node{
+    Node prev;
+	int data;
+    
+    Node next;
+    Node(int d){
+        data=d;
+        prev=null;
+        next=null;
+    }
+}
+
 public class ReverseLinkedList {
+
 	static void printlist(Node head){
         Node curr=head;
         while(curr!=null){
@@ -36,14 +49,7 @@ public class ReverseLinkedList {
     }
 
 }
- class Node{
-    int data;
-    Node prev;
-    Node next;
-    Node(int d){
-        data=d;
-        prev=null;
-        next=null;
-    }
-}
+
+
+
 
